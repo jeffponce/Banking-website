@@ -1,6 +1,6 @@
 # Website Design for Financial Services/Blog
 
-This was a very basic HTML and CSS webpage to practice designing the front-end of web development. Using many CSS classes, we were able to create a type of framework to keep a consistant design through out the webpages but also allow from future pages to be added. In future projects I will be creating more complex pages that will use FlexBox, CSS Grid, and SaSS.
+Financial services business website with a blog section with various articles that customers can read through. Starting to work with more complex tools such as Flexbox, Lightbox to highlight pictures on the website, and adding Javascript to transition navigation bar to change from transparent to dark gray as you scroll down the page. Working with classes and CSS to allow sections to be designed faster and learned to add the Favicon for the website.
 
 ![Final-1]()
 ![Final-2]()
